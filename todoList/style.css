@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  font-size: 15px;
+}
+
+.list-display, .todo-input-grid {
+  display: grid;
+  grid-template-columns: 200px 150px 100px;
+}
+.name-input, .date-input {
+  padding:;
+  cursor: pointer;
+}
